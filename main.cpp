@@ -2,7 +2,7 @@
 //
 //  Rev Date    Name
 //  0   012814  Benjamin J. Spivey, Ph.D.
-//  1   020214  Benjamin J. Spivey, Ph.D.
+//  1   020214     "   "   "   "
 //
 //  Note:
 //  This program is built to run on Windows 2000 or later as it uses the console resize functions
