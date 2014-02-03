@@ -1,4 +1,0 @@
-Minesweeper
-===========
-
-My first project.
